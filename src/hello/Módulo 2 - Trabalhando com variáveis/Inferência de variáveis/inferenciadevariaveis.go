@@ -47,8 +47,9 @@ func main() {
     //4.1
     fmt.Println("O tipo da variável nome é", reflect.TypeOf(nome1))
     fmt.Println("O tipo da variável versão é", reflect.TypeOf(versao1))
+    fmt.Println("O tipo da variável versão é", reflect.TypeOf(versao2))
     fmt.Println("O tipo da variável idade é", reflect.TypeOf(idade1))
     fmt.Println()
 }
- 
+
 
